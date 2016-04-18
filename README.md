@@ -41,6 +41,7 @@
   </tr>
 </table>
 
+##### {dbName}是需要操作的数据库名称，{tableName}是需要操作的表的名称
 
 <table>
   <tr>
